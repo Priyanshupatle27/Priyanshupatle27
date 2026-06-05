@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rule Chess<br>👯 Completed my Education from NIT Raipur<br>🌱 I’m currently learning Data Analysis<br>💬 Ask me about chess<br>⚡ I am a National Chess Player
+🔭 I’m currently working on Rule Chess<br>👨🏻‍🎓 Completed my Education from NIT Raipur<br>🌱 I’m currently learning Data Analysis<br>💬 Ask me about chess<br>⚡♟️ I am a National Chess Player
 
 
 ## 🌐 Socials:
