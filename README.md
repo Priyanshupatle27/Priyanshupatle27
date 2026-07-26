@@ -1,3 +1,7 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Priyanshupatle27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Priyanshupatle27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Priyanshupatle27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 # 💫 About Me:
 🔭 I’m currently working on Rule Chess<br>👨🏻‍🎓 Completed my Education from NIT Raipur<br>🌱 I’m currently learning Data Analysis<br>💬 Ask me about chess<br>⚡♟️ I am a National Chess Player
 
@@ -12,10 +16,7 @@
 ![](https://streak-stats.demolab.com/?user=Priyanshupatle27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Priyanshupatle27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
 [![](https://komarev.com/ghpvc/?username=Priyanshupatle27&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
