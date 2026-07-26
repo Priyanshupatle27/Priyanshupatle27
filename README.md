@@ -1,6 +1,7 @@
 # ⭐ About Me:
  ♟️I’m currently working on Rule Chess<br>👨🏻‍🎓 Completed my Education from NIT Raipur<br>🌱 I’m currently learning Data Analysis<br>💬 Ask me about chess<br>⚡♟️ I am a National Chess Player
 
+[![Priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshupatle27&theme=tokyonight)](https://github.com/Priyanshupatle27)
 ## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshupatle24/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@brilliant_chess24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshu.patle@gmail.com) 
 
