@@ -1,5 +1,5 @@
 # ⭐ About Me:
- ♟️I’m currently working on Rule Chess<br>👨🏻‍🎓 Completed my Education from NIT Raipur<br>🌱 I’m currently learning Data Analysis<br>💬 Ask me about chess<br>⚡♟️ I am a National Chess Player
+ ♟️I’m currently working on Rule Chess<br>👨🏻‍🎓 Completed my Education from NIT Raipur<br>🌱 I’m currently learning Data Analysis<br>💬 Ask me about chess<br>⚡♟️ I am a National Chess Player.
 
 [![Priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshupatle27&theme=tokyonight)](https://github.com/Priyanshupatle27)
 ## 🔗 Socials:
